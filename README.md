@@ -36,7 +36,7 @@ Easy : 10-15 minutes
 ## Installation Instructions
 ### dayz_server PBO Instructions
 
-Download and unpack the most recent release of EMS from <a href="https://github.com/TheFuchs/Epoch-Mission-System--EMS-/releases">our GitHub Release Section</a>. Currently this is version 0.2.5 with hotfixes from 26.12.2013 
+Download and unpack the most recent release of EMS from <a href="https://github.com/TheFuchs/Epoch-Mission-System--EMS-/releases">our GitHub Release Section</a>. Currently this is version 0.2.6
 
 Make a copy of your <b>dayz_server.pbo</b> and rename it <b>dayz_server.pbo.bak</b>
 
